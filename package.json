@@ -59,7 +59,7 @@
     "inquirer": "^6.0.0",
     "inquirer-autocomplete-prompt": "^1.0.0",
     "inquirer-datepicker-prompt": "^0.4.2",
-    "moment-timezone": "^0.5.14",
+    "moment-timezone": "^0.5.23",
     "open": "0.0.5",
     "skypicker": "^1.0.3"
   }
